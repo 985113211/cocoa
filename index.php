@@ -1,4 +1,4 @@
 <?php
-echo 123'
+iiecho 123'
 phpinfo();
 ?>
