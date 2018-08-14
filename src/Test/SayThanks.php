@@ -1,6 +1,6 @@
 <?php
 
-class Say{
+class Say{ 
 	public function seehello(){
 	    echo 'hello';
 	}

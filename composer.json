@@ -2,6 +2,6 @@
     "name": "maerhahaha/cocoa",
     "description": "this is test",
     "type": "project",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {}
 }
