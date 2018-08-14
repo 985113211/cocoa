@@ -3,5 +3,6 @@
     "description": "this is test",
     "type": "project",
     "minimum-stability": "stable",
+    "license":"MIT",
     "require": {}
 }
